@@ -4,7 +4,7 @@ local:
 cache:
   type: memory
 page:
-  title: Changelog
-  subtitle: The latest product updates and improvements
-  colorScheme: light
-  hidePoweredBy: false
+  title: Gaviso One Membership
+  subtitle: The latest updates and improvements
+  colorScheme: system
+  hidePoweredBy: true
