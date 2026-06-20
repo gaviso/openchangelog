@@ -5,7 +5,7 @@ cache:
   type: memory
 page:
   title: Quottum
-  subtitle: Plugin updates and release notes
+  subtitle: Product updates and release notes
   colorScheme: light
   hidePoweredBy: true
   logo:
