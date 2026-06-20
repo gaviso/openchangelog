@@ -8,3 +8,9 @@ page:
   subtitle: Plugin updates and release notes
   colorScheme: light
   hidePoweredBy: true
+  logo:
+    src: https://cdn.jsdelivr.net/gh/gaviso/openchangelog@main/quottumwp/assets/quottum-logo.svg
+    width: 125px
+    height: 40px
+    link: https://app.quottum.io
+    alt: Quottum
